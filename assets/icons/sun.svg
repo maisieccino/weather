@@ -1,0 +1,57 @@
+<svg width="74" height="74" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Sun Icon</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-69 398)">
+<g id="Sun Icon">
+<g id="Subtract">
+<use xlink:href="#path0_fill" transform="translate(90.1141 -377.087)" fill="#2C4251"/>
+</g>
+<g id="sunray">
+<g id="Rectangle 2">
+<use xlink:href="#path1_fill" transform="translate(102.984 -398)" fill="#2C4251"/>
+</g>
+</g>
+<g id="sunray">
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(-1 1.22465e-16 -1.22465e-16 -1 109.016 -324)" fill="#2C4251"/>
+</g>
+</g>
+<g id="sunray">
+<g id="Rectangle 2">
+<use xlink:href="#path2_fill" transform="matrix(6.12324e-17 1 -1 6.12323e-17 143 -364.016)" fill="#2C4251"/>
+</g>
+</g>
+<g id="sunray">
+<g id="Rectangle 2">
+<use xlink:href="#path1_fill" transform="matrix(-1.83697e-16 -1 1 -1.83697e-16 69 -357.984)" fill="#2C4251"/>
+</g>
+</g>
+<g id="sunray">
+<g id="Rectangle 2">
+<use xlink:href="#path3_fill" transform="matrix(0.707107 0.707107 -0.707107 0.707107 130.03 -389.296)" fill="#2C4251"/>
+</g>
+</g>
+<g id="sunray">
+<g id="Rectangle 2">
+<use xlink:href="#path3_fill" transform="matrix(-0.707107 -0.707107 0.707107 -0.707107 81.9699 -332.704)" fill="#2C4251"/>
+</g>
+</g>
+<g id="sunray">
+<g id="Rectangle 2">
+<use xlink:href="#path3_fill" transform="matrix(-0.707107 0.707107 -0.707107 -0.707107 134.296 -336.97)" fill="#2C4251"/>
+</g>
+</g>
+<g id="sunray">
+<g id="Rectangle 2">
+<use xlink:href="#path3_fill" transform="matrix(0.707107 -0.707107 0.707107 0.707107 77.7042 -385.03)" fill="#2C4251"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 16.087 32.1739C 24.9715 32.1739 32.1739 24.9715 32.1739 16.0869C 32.1739 7.20236 24.9715 0 16.087 0C 7.20238 0 0 7.20236 0 16.0869C 0 24.9715 7.20238 32.1739 16.087 32.1739ZM 15.8859 26.5435C 21.5498 26.5435 26.1413 21.952 26.1413 16.2881C 26.1413 10.6241 21.5498 6.03262 15.8859 6.03262C 10.222 6.03262 5.63044 10.6241 5.63044 16.2881C 5.63044 21.952 10.222 26.5435 15.8859 26.5435Z"/>
+<path id="path1_fill" d="M 0 0L 6.03261 0L 6.03261 14.8804L 0 14.8804L 0 0Z"/>
+<path id="path2_fill" d="M 0 0L 6.03261 0L 6.03261 14.8804L 0 14.8804L 0 0Z"/>
+<path id="path3_fill" d="M 0 0L 6.03261 0L 6.03261 14.8804L 0 14.8804L 0 0Z"/>
+</defs>
+</svg>
